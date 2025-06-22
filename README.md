@@ -11,7 +11,7 @@ This project is an interactive Power BI dashboard analyzing 4 years of retail sa
 - **Sales peak** during Q4 (October–December)
 
 ## 📂 Included File
-- `Retail_Sales_Analysis_Dashboard.pbix` – Power BI dashboard project
+- `Retail_Sales_Analysis1_Dashboard.pbix` – Power BI dashboard project
 
 ## 🛠️ Tools Used
 - Power BI Desktop
